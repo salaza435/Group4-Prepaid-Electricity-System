@@ -1,5 +1,4 @@
 # Group4-Prepaid-Electricity-System
-# Prepaid Electricity Token System (Group 4)
 
 ## Project Overview
 A secure, menu-driven C programming system designed for the management of prepaid electricity tokens.
