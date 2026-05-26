@@ -22,7 +22,7 @@ int main(){
 		scanf("%f", &customers[i].units_balance);
 		break;
 	}
-	//payment for the units
+	
 	int payment;
 	printf("Enter amount in UGX for electricity to purchase: ");
 	scanf("%d", &payment);
